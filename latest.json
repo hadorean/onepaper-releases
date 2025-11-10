@@ -1,10 +1,10 @@
 {
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"notes": "Auto-update support",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWE81ejNPS1p1bHRWN05Sb216UC9XbHRodjJySU5KdHN2NG8yRGl6QS9yQTZRVnl6N1FUakZmTzN1OG15Yk5GdnVIVnkwMkI1Sk5PeWkyNTYvbW94NGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzY1MTI4CWZpbGU6b25lcGFwZXJfMC4yLjBfeDY0X2VuLVVTLm1zaQprbm4zSFoxanZYSG9TZGtZTkZnbnlIN2pmKzJFbUNLME1rU2NQMC84MnI3ZW90Vm1ydC9PUXRMSUlPeDlESm8rcG5YdSt2Ti8yc2FtNEkwR3lvUFBDZz09Cg==",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/onepaper_0.2.0_x64_en-US.msi"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWE9hTjdXYTV1YXhsRU90R3VRc2xqK1ViQXVWR2JzRGgxM3ZMZ0pNK25walpZUnN2RmVaTUVaQlNOQ0RKcmVOTFNBZnhlNEdnSWRYUnU4bktTYVdER0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzY3MjI3CWZpbGU6b25lcGFwZXJfMC4zLjBfeDY0LXNldHVwLmV4ZQoxOFk2KzBwK3hwREllTlFnclI4V2thamczYjBxd3JINmI2UTZaS0tnVjJuY2pQQk1ZcFM2c0Jna0xCUlgzVzF4MkozZ2RiOEhsWlZtSFNvWmlzbTNCZz09Cg==",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/onepaper_0.3.0_x64-setup.exe"
 		}
 	}
 }
