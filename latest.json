@@ -1,0 +1,10 @@
+{
+	"version": "0.1.0",
+	"notes": "Initial release",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWFBTZDkvWVJUN0kwSG9XL2c0MzFMT05NSDBzTS9qQ3VEQUtsUTRDRUdqRVFtZjFSNjJTaDVtQXlCT3JTa2huQmI2cW5jMWZQV1VZZXRibjlSRStiNVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzU2MTExCWZpbGU6b25lcGFwZXJfMC4xLjBfeDY0X2VuLVVTLm1zaQpPakZ0cmwwbGtnZjdibEV3UWFNTzd0cVFTY3NZWlBwY1RDaGRnM0tVUXFYOE40cXNjY29hckt2UkZQaEhMenJ2S3JaSThlZHFwM1RGaUhFaEY0WUpDQT09Cg==",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/onepaper_0.1.0_x64_en-US.msi"
+		}
+	}
+}
