@@ -1,10 +1,10 @@
 {
-	"version": "0.4.0",
-	"notes": "- Enable/disable background window based on user settings\r\n- Test",
+	"version": "0.5.0",
+	"notes": "Features\n- Added first-run experience with default settings and sample images\n- Automatic monitor detection refresh in settings when new monitor is connected\n- Improved enable/disable monitor UI\n\nFixes\n- Fixed serialization issues with null values",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWE5RbjlFSDFNV1Y0SngyTng2UjQ1RFJpclNwZGQ2eHRuUkZjWFpvNzR2TmxyRUtMemd6dDYxN3EzZHdYaHRycHdrbWdjQkN5dDJuUTRlQkVySVZWZ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyOTA4Nzc0CWZpbGU6b25lcGFwZXJfMC40LjBfeDY0LXNldHVwLmV4ZQpzMHVrbmFva2VZbU4ra1Y4QWlJNjViVHdKQldzU1RJQzhkN21rZEN1Qkxxa0VKZTh4N2NCamlKVXVWN3l2aXM0Sk51Qm9KRXZ3Z09QczZyYk5XM1JCUT09Cg==",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/onepaper_0.4.0_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWE5KWTVYMWxGa0JNSTFlT29WTi9lbUJwam5QVDZqMUhIWkVBRkJ3SjBWWUg3a2hVcERDMk9GVkxjclA3WkZNMlNld3ZraDZENU9nVWZSTHFyNVdtK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMDg5NDU1CWZpbGU6b25lcGFwZXJfMC41LjBfeDY0LXNldHVwLmV4ZQpqLzBCNVYxU2FaTTVaMUN0dk9Wb2NDY3IySFpmd3Y2UWhDdHdqY2JtK1ZLOEF5TTc2dTJIOFZ1ZjZpNDg3dzl0dGdVc2F5UWNacG9aRExnTXAvSlVCQT09Cg==",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/onepaper_0.5.0_x64-setup.exe"
 		}
 	}
 }
