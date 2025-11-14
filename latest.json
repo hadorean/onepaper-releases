@@ -1,10 +1,10 @@
 {
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"notes": "Features\n- Default thumbnail images are now included and automatically copied on first run, providing immediate visual previews for background images",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEdMV0l3SjRiZmg5R1FqYmFRSnZiTW9OZkhKNE9DbDZOL3B0L2liWlRSZVVPSW41aXU2bWVwcGlkaWV5b3lsbkUzVTZKUkhhbjZkY0dNd01EYytYd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMDkwODEyCWZpbGU6T25lcGFwZXJfMC42LjBfeDY0LXNldHVwLmV4ZQpzc3pwTml6WVR2ak5jUzVCMG14SHE3b3VzT2xqWCtIdEVUNU9uRi9RR08yeDRkUlpJcDJTaHgveGpBdXBTdnFXZ0VEeVNVbFNjdEE2L01KNUp4WFdCUT09Cg==",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.6.0_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWE0zcFJVVlFHTDQ3eWh6Y2x4bGlWZWJJWDNOem1SdmpPT0RtRFd3M21VeVZUS2FyS2FZeXd5bnhpWVZWZklvU05nb1lJVTVJQms4Qi9iTUNtd3MzdkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMDkxMzA5CWZpbGU6T25lcGFwZXJfMC43LjBfeDY0LXNldHVwLmV4ZQpUWGQwNDNPTzZGU3lWdlRvY0xtam45NlJiRU5qb05mQzNMV2tKd3gra2FCZHZUWWxuYkFBZmY2T2sxMjdMQVhiZmRaRlRGeGVRazkrcm5NWkZRUmhBZz09Cg==",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.7.0_x64-setup.exe"
 		}
 	}
 }
