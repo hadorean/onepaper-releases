@@ -1,10 +1,10 @@
 {
-	"version": "0.15.0",
+	"version": "0.16.0",
 	"notes": "- Sync collections, favorites, history, and discarded between web and desktop clients in real-time\r\n- Include history and discarded images in export/import",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEFLa044clR3cThGSFFRM1RSZzN4R3VFb0V4S1drdWJBK2Q4blpKMnpaMUdka2YydUpLb1RDdXdvb1h1NmxIcnNZaDg4dGlEZ1MrdDgza2xFamkwMlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzkxOTA3CWZpbGU6T25lcGFwZXJfMC4xNS4wX3g2NC1zZXR1cC5leGUKeEIrVGtQN1F1MUdUQnZBQ2lPU1lFMDFWbExldm9oNEpWYWhsbXMrVXNnUkQ4eVMyTm1OYmc0dGVlTUxkdFJNNlZRbGF2N1BHRGdxckFiaVpyUmd2Q0E9PQo=",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.15.0_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEdPMnd0WTJlM3A1bjhLdUtFME1jVytqWmpEQmVvNXdpMFhLM3RGMEtFYzkyWCsyZGt6VGIxaEh5dmdxaDI1bGZabGtGai9vTkZUY2ZDOW9wc2NsOEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzkyNTIzCWZpbGU6T25lcGFwZXJfMC4xNi4wX3g2NC1zZXR1cC5leGUKaDRaVUJCZ1FNTnRtWlV3bTc3Q3BIdncvV3R4VGV1Sytnam0zbElJbXc1SDUxQjFUcWhKbEVLbnI1NnRRR0phN2Naam4wemJUN0ZNRXBrNncySkR5Qmc9PQo=",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.16.0_x64-setup.exe"
 		}
 	}
 }
