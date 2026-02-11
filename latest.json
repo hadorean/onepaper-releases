@@ -1,10 +1,10 @@
 {
-	"version": "0.17.0",
-	"notes": "- Settings panel is now resizable by dragging its left edge, with the width remembered across sessions\n- Collection and photo grids reflow automatically when the panel is resized\n- Larger photo thumbnails in collection views",
+	"version": "0.18.0",
+	"notes": "- Settings panel reorganized into collapsible card sections (Background, Image Effects, Display, Schedule)\r\n- Background source selector inlined into section header\r\n- Removed redundant \"Enable background\" toggle",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEhnMWNzS3Q1ZDIxalpJZU1aZ1VTTEFPdk9CRjZnUVplcVdFRStXQUV0cGh5aHZDb2MySjdOY2hXc1FZekN1WkhnajZWZkVBMXBPSzlhZGg5bUdhTXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzk1MTk5CWZpbGU6T25lcGFwZXJfMC4xNy4wX3g2NC1zZXR1cC5leGUKamk3dTBmcGZac0drWU9RRzNJY1RYOFdaS1Q3d3dKbnhHN3VOSVNJU2RpblFKSXZaWHhPdnFkdCtjaU95bzA3TVhXWGUwTTY1b1c2Ynhpayt2c0FxQ3c9PQo=",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.17.0_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEJhZzRqZTdJeHFaTW5iZ0VQQTB0VklhWHhqaHU4dGRQbVU4TC9WczBJN2txbUZpcHdmMVVUa255a1pqQVNQdlh3RXFzdWkybGdQK3ArUjM4V0k5QmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODA2MzQ1CWZpbGU6T25lcGFwZXJfMC4xOC4wX3g2NC1zZXR1cC5leGUKSjVqTUpWa1dQMTRvM3VlWWFOL2ZQd01rOHBnaEtHdFFVanI5MUt1d0xyWWxCUVFQdVJaZUgwZmVJOXZ1c2NPVUpUMGttVmI3c2xHdnRtSlhwd1I1QUE9PQo=",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.18.0_x64-setup.exe"
 		}
 	}
 }
