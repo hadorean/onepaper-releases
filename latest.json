@@ -1,10 +1,10 @@
 {
-	"version": "0.14.0",
-	"notes": "Features\n- Show favorite button when hitting the favorite key\n- Download button to save current background image\n- Filter and sort controls in collections grid\n- Light/dark theme toggle for settings panel\n- Remove button on history grid images\n\nFixes\n- Fix dropdowns staying dark in light panel theme",
+	"version": "0.15.0",
+	"notes": "- Sync collections, favorites, history, and discarded between web and desktop clients in real-time\r\n- Include history and discarded images in export/import",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEVxTWVuQldRSkMrQ0tpMFJjUkROSFdneG1zNzNKcFVTU0pqck5pY00zcTZWcjZhdzByQ25qZVJITzNQMzdtZjNTS2hMOUhqbEM1UGhWN0lFQ2szcUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzg1MDI4CWZpbGU6T25lcGFwZXJfMC4xNC4wX3g2NC1zZXR1cC5leGUKSnJhZGNFRGI1QzVTRk5vdkdNZmQ0aFVrbjVRN0NOWGg5d09lZjE5MHNhd2U2OVN2YzJwekRSS3VkQlFzYWRqWGFZejE0V0xvODk5Q28rSGpwbGp4Q3c9PQo=",
-			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.14.0_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRjRDUWRrZ1lEWEFLa044clR3cThGSFFRM1RSZzN4R3VFb0V4S1drdWJBK2Q4blpKMnpaMUdka2YydUpLb1RDdXdvb1h1NmxIcnNZaDg4dGlEZ1MrdDgza2xFamkwMlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzkxOTA3CWZpbGU6T25lcGFwZXJfMC4xNS4wX3g2NC1zZXR1cC5leGUKeEIrVGtQN1F1MUdUQnZBQ2lPU1lFMDFWbExldm9oNEpWYWhsbXMrVXNnUkQ4eVMyTm1OYmc0dGVlTUxkdFJNNlZRbGF2N1BHRGdxckFiaVpyUmd2Q0E9PQo=",
+			"url": "https://raw.githubusercontent.com/hadorean/onepaper-releases/main/Onepaper_0.15.0_x64-setup.exe"
 		}
 	}
 }
